@@ -48,3 +48,4 @@ Tranlated in Chinese:
 | Emin.lin | Eminlin | 0 |  |
 | ZhuowenLi | pinkpigy | 0 | |
 | SeasonMay | SeasonMay | 0 | |
+| zt | ztjjj9 | 0 | RISC-V enthusiast |
